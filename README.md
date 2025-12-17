@@ -46,3 +46,8 @@ Develop an end-to-end machine learning pipeline to forecast hourly bike rentals 
 1. Summarize findings and key takeaways from the analysis
 2. Discuss feature importance and business implications
 3. Provide recommendations for further improvements
+
+# Output: 
+![OUTPUT](1.png)
+![OUTPUT](2.png)
+![OUTPUT](3.png)
